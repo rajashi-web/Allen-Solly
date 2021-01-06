@@ -1,0 +1,238 @@
+.brand{
+  background-image: url(../images/top-pic.jpg);
+  background-size: cover;
+  background-position: fixed;
+background-attachment: fixed;
+}
+.jumbotron{
+  background-color: transparent!important;
+  color: #ffffff!important;
+}
+.display-4{
+  margin: 15px 506px 20px;
+  /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Langar', cursive;
+}
+.lead{
+    margin: 20px 506px;
+    font-family: 'Roboto Mono', monospace;
+      font-weight: bolder;
+        font-size: 153%!important;
+      /* font-family: 'Langar', cursive; */
+      /* color: #0a043c; */
+}
+.my-4{
+  margin: 20px 506px;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+  font-size: 130%!important;
+}
+.middle-part{
+text-align: center;
+background-color:#f8f1f1;
+
+
+}
+/* Carousel Part */
+
+.carousel-item{
+  padding:3% 7% 1% !important;
+}
+.testimonial{
+  border-radius: 100%!important;
+  width: 50%!important;
+  padding: 1.2rem!important;
+}
+.model{
+  border-radius: 100%!important;
+  width: 35%!important;
+  padding: 1.2rem!important;
+  /* position: absolute!important; */
+}
+.brand-image{
+  width: 50%!important;
+  height: 50%;
+}
+.lady-image{
+  width: 50%;
+  height: 330px!important;
+}
+.carousel-h5{
+  position: relative!important;
+  padding: 180px 160px!important;
+  color: #0a043c;
+}
+.carousel-p{
+  position: relative!important;
+  padding: 56px 160px!important;
+  color: #0a043c;
+  font-family: 'Oswald', sans-serif;
+  font-size: 110%;
+}
+.fisrt-hr{
+  background-color: #0a043c;
+  margin: -17px 712px;
+}
+.design-pic{
+  width: 5%;
+  /* position: center; */
+  margin: 0 713px;
+  border-radius: 100%;
+
+}
+.about-us{
+  margin-top:-30px ;
+  margin-bottom: -1rem;
+  background-color:#f8f1f1;
+  color:#000000;
+  font-family: 'Oswald', sans-serif;
+}
+
+
+.design1-pic{
+  width: 5%;
+  /* position: center; */
+  margin: 32px 638px;
+  border-radius: 100%;
+}
+.about-h1{
+  margin: 5px 596px -22px;
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Langar', cursive;
+}
+.servise-h1{
+  margin: 5px 584px -22px;
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Langar', cursive;
+}
+.design2-pic{
+  width: 5%;
+  /* position: center; */
+  margin: 32px 622px;
+  border-radius: 100%;
+}
+.collection{
+    background-image: url(../images/12.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    margin-bottom: 5%;
+}
+.middle-part{
+  background-image: url(../images/carosel-background-pic.jpg);
+  background-size: cover;
+  background-position: fixed;
+  /* background-attachment: fixed; */
+}
+
+
+
+.column-feature{
+  text-align: center!important;
+  margin: 50px 0 138px!important;
+  padding-right: 53px!important;
+}
+.fas{
+  padding: 7%!important;
+  color: #0a043c;!important;
+  /* width: 30%!important; */
+  font-size: 70px!important;
+}
+.fas:hover{
+  color: #79a3b1!important;
+}
+.card{
+  margin: 5% 5%;
+}
+.collection-h1{
+  margin: -76px 570px -22px;
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'Langar', cursive;
+}
+.design3-pic{
+  width: 5%;
+  /* position: center; */
+  margin: 32px 619px;
+  border-radius: 100%;
+}
+.design4-pic{
+  width: 5%;
+  /* position: center; */
+  margin: -33px 633px;
+  border-radius: 100%;
+}
+.cusrev-h1{
+  margin: 5px 398px -22px;
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'Langar', cursive;
+}
+.cus1-hr{
+  border-style: none;
+border-top-style:double;
+border-color: #120078;
+border-width: 5px;
+width: 5%;
+margin: 100px auto;
+}
+.contact-us{
+  margin-bottom: 5%;
+}
+.contact-h1{
+    /* margin-bottom: 0 50% 10%; */
+    margin: 0;
+  padding: 0 561px 50px;
+  font-family: 'Langar', cursive;
+}
+.contact{
+    /* margin-bottom: 0 50% 10%; */
+    margin: 0;
+  margin: 20px 513px 0;
+}
+.link{
+     margin:0 15px 20px!important;
+    font-weight: bold;
+    font-size: 2rem!important;
+    background-color: #0a043c!important;
+    color: #ffffff!important;
+    text-align:left!important;
+}
+.footer-pic{
+  width: 6%;
+  margin: 40px 638px 40px;
+
+}
+.ser-p{
+  font-family: 'Oswald', sans-serif;
+     color: #0a043c!important;
+     font-size: 120%!important;
+}
+.ser-h2{
+  font-family: 'Lobster', cursive;
+
+}
+.about-p{
+  margin: 33px 13px 11px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 110%;
+
+}
+.link:hover{
+  color: #79a3b1!important;
+  font-variant: small-caps!important;
+}
+.design5-pic{
+  width: 5%;
+  /* position: center; */
+  margin: 35px 505px;
+  border-radius: 100%;
+}
+.customer-h1{
+  margin: -71px 359px 20px;
+}
+.customer-p{
+  margin: 20px 403px 50px;
+}
+.customer-review{
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
